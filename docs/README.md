@@ -12,7 +12,7 @@ Dokumentacja ma odpowiadać:
 ## Jak czytać dokumentację
 
 ### 1. Zawsze zacznij od
-- `docs/AGENT_MENU.md`
+- `docs/DOC_MENU.md`
 
 ### 2. Gdy chcesz zrozumieć produkt i zakres
 - `docs/core/PRODUCT.md`
